@@ -1,0 +1,12 @@
+Source: dunst
+Section: unknown
+Priority: optional
+Maintainer: Nick Byrne <nick@incension.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: https://github.com/dunst-project
+
+Package: dunst
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: A lightweight notification manager for Linux

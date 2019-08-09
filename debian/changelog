@@ -1,0 +1,5 @@
+dunst (1.4.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Nick Byrne <nick@npc>  Mon, 22 Jul 2019 17:37:31 +0100
